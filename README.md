@@ -1,2 +1,3 @@
 # arianna1406.github.io
-testing out git in atom
+<h1>hi</h1>
+testing github in atom
